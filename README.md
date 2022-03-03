@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 or
 ```
-pip install psycopg2
+pip install pypyodbc 
 pip install pyqt5
 ```
 
